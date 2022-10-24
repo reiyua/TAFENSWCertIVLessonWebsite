@@ -1,5 +1,5 @@
 # TAFECertIVLessonWebsite
-TAFE Website, Cert IV
+This is a website that was created as I learned how to use HTML & CSS, very basic.
 
 
 NOTES:
